@@ -5,10 +5,11 @@
 ### Fowarding - 10 Points
 
 ### Flag
-tjctf{just_g3tt1n9_st4rt3d}
+tjctf{inevitable890898}
 ### Deskripsi soal
 
-Diberikan suatu File, temukan Flag
+Login pada suatu Website
+
 
 ### Solusi
-Buka file tersebut, Ctrl+F tjctf, maka ditemukan flag
+Jika melihat page source maka terlihat untuk setiap button di click akan melakukan function checkUsername dimana pada function checkUsername hanya mencocokan suatu nilai hash, maka solusinya adalah dengan melakukan decrypt(mencocokan nilai) hash MD5 yang ada

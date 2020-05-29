@@ -9,3 +9,11 @@ Write Up TJCTF 2020
 3. [Miscellaneous](/Miscellaneous)
 4. [Reversing](/Reversing)
 5. [Web](/Web)
+
+
+## Rank
+![Rank](/img/rank.PNG)
+
+
+## Score Progression
+![Score Progreesion](/img/scoreProgression.PNG)
